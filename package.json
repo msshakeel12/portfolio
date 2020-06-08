@@ -1,0 +1,16 @@
+{
+  "name": "campaign",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "deploy": "gh-pages -d ./"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/msshakeel12/portfolio",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
