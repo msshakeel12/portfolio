@@ -740,28 +740,28 @@
     background: url("img/dijkstra.jpg") center center/cover;
   }
   section:nth-of-type(3) #gallery .mix:nth-child(2) .card {
-    background: url("img/Quiz.JPG") center center/cover;
+    background: url("img/Quiz.jpg") center center/cover;
   }
   section:nth-of-type(3) #gallery .mix:nth-child(3) .card {
-    background: url("img/bricks.JPG") center center/cover;
+    background: url("img/bricks.jpg") center center/cover;
   }
   section:nth-of-type(3) #gallery .mix:nth-child(4) .card {
-    background: url("img/sudoku.JPG") center center/cover;
+    background: url("img/sudoku.jpg") center center/cover;
   }
   section:nth-of-type(3) #gallery .mix:nth-child(5) .card {
-    background: url("img/maze.JPG") center center/cover;
+    background: url("img/maze.jpg") center center/cover;
   }
   section:nth-of-type(3) #gallery .mix:nth-child(6) .card {
-    background: url("img/morse.JPG") center center/cover;
+    background: url("img/morse.jpg") center center/cover;
   }
   section:nth-of-type(3) #gallery .mix:nth-child(7) .card {
-    background: url("img/voice.JPG") center center/cover;
+    background: url("img/voice.jpg") center center/cover;
   }
   section:nth-of-type(3) #gallery .mix:nth-child(8) .card {
-    background: url("img/automatic.JPG") center center/cover;
+    background: url("img/automatic.jpg") center center/cover;
   }
   section:nth-of-type(3) #gallery .mix:nth-child(9) .card {
-    background: url("img/cypher.JPG") center center/cover;
+    background: url("img/cypher.jpg") center center/cover;
   }
   section:nth-of-type(3) #gallery .mix:nth-child(10) .card {
     background: url("") center center/cover;
@@ -770,7 +770,7 @@
     background: url("") center center/cover;
   }
   section:nth-of-type(3) #gallery .mix:nth-child(12) .card {
-    background: url("img/cypher.JPG") center center/cover;
+    background: url("img/cypher.jpg") center center/cover;
   }
   section:nth-of-type(3) #gallery .mix .card {
     height: 240px;
@@ -819,11 +819,11 @@
     width: 100%;
   }
   section:nth-of-type(4) .blog-wrap #thumb-1 {
-    background: url("./img/twopageres.JPG") center center/cover;
+    background: url("./img/twopageres.jpg") center center/cover;
   
   }
   section:nth-of-type(4) .blog-wrap #thumb-2 {
-    background: url("./img/onepage.JPG") center center/cover;
+    background: url("./img/onepage.jpg") center center/cover;
   }
   section:nth-of-type(4) .blog-wrap .fade-wrap {
     transition: opacity 0.3s;
